@@ -1,0 +1,9 @@
+{	
+	"portraits":{
+		"standard_female":[
+			"graphics/portraits/quack_f_001.png",
+			"graphics/portraits/quack_f_002.png",
+			"graphics/portraits/quack_f_003.png",
+		],
+	},
+},

@@ -1,0 +1,8 @@
+{
+	"id":"quackenportraitpack", # internal id
+	"name":"Quacken's Portrait Pack", # displayed to the player
+	"author": "Quacken",
+	"version":"1.0",
+	"description":"Vanilla style portraits lovingly painted by Quacken.",
+	"gameVersion":"0.95.1a-RC6",
+}
