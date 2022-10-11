@@ -1,0 +1,8 @@
+{
+	"id":"quackensderpyportraits", # internal id
+	"name":"Quacken's Derpy Portraits", # displayed to the player
+	"author": "Quacken",
+	"version":"1.0",
+	"description":"Does this need a description?",
+	"gameVersion":"0.95.1a-RC6",
+}

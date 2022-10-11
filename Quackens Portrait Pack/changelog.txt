@@ -1,2 +1,5 @@
+1.0.5:
+ - Added 1 female portrait.
+
 1.0:
 Initial release.

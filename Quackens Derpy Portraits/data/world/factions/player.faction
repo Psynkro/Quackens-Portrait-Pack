@@ -1,0 +1,10 @@
+{	
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/Gendo_Quacken.png",
+
+		],
+		"standard_female":[
+		],
+	},
+},
